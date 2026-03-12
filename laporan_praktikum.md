@@ -102,3 +102,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
+![Screenshot Output Unguided 1_2](https://github.com/akhsansabili3370-design/109082500062_Akhsan-Sabili/blob/main/screenshot/ss%20tugas%203.png)
+
+[Program diatas memiliki satu variable utama dengan tipe interger. Lalu terdapat beberapa variable tambahan seperti kg untuk mengonversi dari gram ke kg, lalu gram digunakan untuk menghitung sisa dari kg, lalu hargakg dan hargagr digunakan untuk menentukan harga perkg dan per gram. Berikutnya terdapat if yang bermaksud jika berat lebih dari 10 kg maka harga pergram menjadi 0, lalu else if yang bermaksud jika sisa berat barang lebih dari atau sama dengan 500 gram maka harga pergram menjadi 5 rupiah. Lalu variable total berfungsi untuk menjumlahkan harga akhir dari kg dan gram. Setelah semua selesai maka output akan menampilkan mulai dari berat parsel detail berat, detail harga dan total biaya]
