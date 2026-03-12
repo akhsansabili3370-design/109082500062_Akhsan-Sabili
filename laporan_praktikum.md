@@ -66,4 +66,39 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_2](
+![Screenshot Output Unguided 1_2](https://github.com/akhsansabili3370-design/109082500062_Akhsan-Sabili/blob/main/screenshot/ss%20tugas%202.png)
+
+[Program diatas memiliki empat variable utama dengan tiper string. Lalu terdapat variable p untuk menyimpan empat string secara berurutan dan variable hasil dengan nilai inisiasi awal true. Berikutnya terdapat perulangan yang akan menjalankan perulangan sebanyak lima kali. Dalam looping terdapat Scan yang berfungsi untuk membuat inputan berulang sebanyak lima kali. Lalu terdapat if yang bermaksud menyamakan apakah a = merah, b = kuning, c = hijau, d = ungu, jika diantara warna tersebut ada yang tidak sesuai maka variable hasil akan berubah menjadi false. Lalu terdapat dua output yang apabila hasil sama dengan false maka program akan menampilkan output "False" dan jika hasil sama dengan true maka program akan menampilkan  output "True"]
+
+
+### 3. [Soal]
+#### tugas3.go
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	var b int
+	fmt.Scan(&b)
+	kg := b / 1000
+	gr := b % 1000
+	hargakg := kg * 10000
+	hargagr := gr * 15
+	if kg > 10 {
+		hargagr = 0
+	} else if gr >= 500 {
+		hargagr = gr * 5
+	}
+	total := hargakg + hargagr
+	fmt.Println("Berat parsel (gram) :", b)
+	fmt.Println("Detail berat :", kg, "kg +", gr, "gr")
+	fmt.Println("Detail biaya : Rp.", hargakg, "+ Rp.", hargagr)
+	fmt.Println("Total biaya : Rp.", total)
+}
+
+```
+### Output Unguided :
+
+##### Output 
