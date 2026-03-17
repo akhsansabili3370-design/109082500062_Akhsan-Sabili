@@ -66,7 +66,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_2](https://github.com/akhsansabili3370-design/109082500062_Akhsan-Sabili/blob/main/screenshot/ss%20tugas%202.png)
+![Screenshot Output Unguided 1_2](https://github.com/akhsansabili3370-design/109082500062_Akhsan-Sabili/blob/main/P%20modul%202/screenshot/ss%20tugas%202.png)
 
 [Program diatas memiliki empat variable utama dengan tiper string. Lalu terdapat variable p untuk menyimpan empat string secara berurutan dan variable hasil dengan nilai inisiasi awal true. Berikutnya terdapat perulangan yang akan menjalankan perulangan sebanyak lima kali. Dalam looping terdapat Scan yang berfungsi untuk membuat inputan berulang sebanyak lima kali. Lalu terdapat if yang bermaksud menyamakan apakah a = merah, b = kuning, c = hijau, d = ungu, jika diantara warna tersebut ada yang tidak sesuai maka variable hasil akan berubah menjadi false. Lalu terdapat dua output yang apabila hasil sama dengan false maka program akan menampilkan output "False" dan jika hasil sama dengan true maka program akan menampilkan  output "True"]
 
